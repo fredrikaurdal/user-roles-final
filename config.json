@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://readwrite:v8qXv6b277sR4TUnH798f@cluster0-shard-00-00-et4fk.mongodb.net:27017,cluster0-shard-00-01-et4fk.mongodb.net:27017,cluster0-shard-00-02-et4fk.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true",
+    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
